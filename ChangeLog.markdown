@@ -1,3 +1,9 @@
+# 2.5.0 - 2023-05-16
+  This is the forking point for Pason Systems Corp. This release adds support for newer versions of git (2.+).
+
+  * Switched svn trunk from 'master' to 'main' branch.
+  * Fixed a bug when creating branches with romote tracking. 
+
 # 2.4.0 - 2016-10-30
 
   This release introduces the ability to supply a password for SVN repositories that can't authenticate by other means.
